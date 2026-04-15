@@ -12,6 +12,6 @@
   "deposit_amount": 30000,
   "valid_until": "2026-04-29T00:00:00.000Z",
   "created_at": "2026-04-15T00:00:00.000Z",
-  "url": null,
-  "deployed_at": null
+  "url": "https://proposal-senaria-78ed9b.vercel.app",
+  "deployed_at": "2026-04-16T00:00:00.000Z"
 }
