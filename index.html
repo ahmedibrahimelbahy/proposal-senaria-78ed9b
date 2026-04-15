@@ -708,13 +708,15 @@
       <!-- QR Code -->
       <div class="qr-section reveal">
         <div class="mono" style="font-size:0.68rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--muted);margin-bottom:1.5rem;">Scan to pay via InstaPay</div>
-        <img
-          src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https%3A%2F%2Fipn.eg%2FS%2Faql.ai%2Finstapay%2F0Q6lpa&color=1A1A2E&bgcolor=FFFFFF"
-          alt="InstaPay QR Code — scan to pay"
-          width="200"
-          height="200"
-          style="margin-bottom:1.25rem;"
-        />
+        <a href="https://ipn.eg/S/aql.ai/instapay/0Q6lpa" target="_blank" rel="noopener noreferrer" style="display:inline-block;transition:transform 0.4s cubic-bezier(0.16,1,0.3,1);" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+          <img
+            src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https%3A%2F%2Fipn.eg%2FS%2Faql.ai%2Finstapay%2F0Q6lpa&color=1A1A2E&bgcolor=FFFFFF"
+            alt="InstaPay QR Code — tap or scan to pay"
+            width="200"
+            height="200"
+            style="margin-bottom:1.25rem;cursor:pointer;"
+          />
+        </a>
         <div class="serif-i" style="font-size:0.95rem;color:var(--ink-2);">
           Pay to <strong style="color:var(--brand);">aql.ai@instapay</strong>
         </div>
@@ -763,8 +765,7 @@
           <div class="term-row"><dt>Balance</dt><dd>50% on completion</dd></div>
           <div class="term-row"><dt>Monthly retainer</dt><dd>35,000 EGP / month</dd></div>
           <div class="term-row"><dt>Revisions</dt><dd>2 rounds per deliverable</dd></div>
-          <div class="term-row"><dt>Proposal valid until</dt><dd>Apr 29, 2026</dd></div>
-          <div class="term-row" style="border-bottom:none;"><dt>Cancellation</dt><dd>Full refund within 48h of kickoff</dd></div>
+          <div class="term-row" style="border-bottom:none;"><dt>Proposal valid until</dt><dd>Apr 29, 2026</dd></div>
         </dl>
       </div>
 
