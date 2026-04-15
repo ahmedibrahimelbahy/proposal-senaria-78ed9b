@@ -1,0 +1,8 @@
+{
+  "name": "proposal-senaria-78ed9b",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo static — nothing to build"
+  }
+}

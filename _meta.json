@@ -1,0 +1,17 @@
+{
+  "client": "Senaria",
+  "client_slug": "senaria",
+  "short_id": "78ed9b",
+  "agency": "fcs",
+  "agency_name": "Full Circle Solutions",
+  "price_startup": 60000,
+  "price_retainer_monthly": 35000,
+  "price_addon_monthly": 10000,
+  "currency": "EGP",
+  "deposit_percent": 50,
+  "deposit_amount": 30000,
+  "valid_until": "2026-04-29T00:00:00.000Z",
+  "created_at": "2026-04-15T00:00:00.000Z",
+  "url": null,
+  "deployed_at": null
+}
